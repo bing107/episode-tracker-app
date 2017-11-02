@@ -1,0 +1,32 @@
+{
+  "name": "episode-tracker-app",
+  "version": "0.0.1",
+  "description": "react app with a node backend to notify user on new episode uploads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bing107/episode-tracker-app.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "heroku",
+    "tv",
+    "episodes",
+    "pwa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bing107/episode-tracker-app/issues"
+  },
+  "homepage": "https://github.com/bing107/episode-tracker-app#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  }
+}
